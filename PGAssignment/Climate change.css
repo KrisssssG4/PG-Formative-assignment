@@ -1,0 +1,141 @@
+body, html {
+    overflow-x: hidden;
+} 
+
+.bg-btn {
+    background-image: linear-gradient(to right, #f59352 40%, #e78e6d 60%);
+}
+    
+
+
+#bg-head {
+    position: relative;
+    height: 500px;
+    margin: 0px 0px 0px 0px;
+    padding: 20px;
+    background-image: url(img/polar\ bear.jpg);
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+    
+}
+
+h1 {
+    font-size: 5rem;
+    font-family: Cambria, Cochin, Georgia, Times, ‘Times New Roman’, serif;
+}
+
+.title-container {
+    position: relative;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    text-align: center;
+    z-index: 10;
+}
+
+.title-text { 
+    color: #f59352;
+}
+
+.div-caus {
+    text-align: center;
+    padding-top: 68px;
+    padding-bottom: 40px;
+}
+
+p {
+    font-size: 18px;
+    font-style: Arial;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, ‘Times New Roman’, serif;
+}
+
+li {
+    font-size: 20px;
+    font-style: Arial;
+}
+
+.image-1-div {
+    flex: 1 0 0%;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 0%;
+}
+
+.image-1 {
+    width: 600px;
+    height: 400px;
+}
+
+.image-2 {
+    width: 1000px;
+    height: 450px;
+}
+
+.image-3 {
+    width: 600px;
+    height: 400px;
+}
+
+.image-4 {
+    width: 500px;
+    height: 450px;
+}
+
+
+.image-5 {
+    width: 100%;
+    height: 500px;
+}
+
+.image-6 {
+    width: 600px;
+    height: 500px;
+}
+
+.section-head {
+    padding: 40px;
+    overflow: hidden；
+}
+
+.section1 {
+    padding-top: 108px;
+}
+
+.section2 {
+    padding-top: 58px;
+}
+
+.section4 {
+    padding-bottom: 80px;
+}
+
+table {
+    text-align: left;
+    margin: 30px auto 100px;
+    width: 1300px;
+}
+
+.bg-sec {
+    background: antiquewhite
+}
+
+.div-final {
+    padding: 80px;
+    font-family: ‘Franklin Gothic Medium’, ‘Arial Narrow’, Arial, sans-serif;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    background-color: black;
+}
+
+.b1 {
+    color: cyan;
+}
+
+.b2 {
+    color: rgb(245, 176, 49);
+}
